@@ -3,14 +3,14 @@ This is so difficult to find a person who has no internet based account. Online 
 But in present time many security system has added to the cyber world. So we can use them for extra security.
 
 ## Topics
-– Security principles.
-– Personal data.
-– Malicious software.
-– Web security.
+- Security principles.
+- Personal data.
+- Malicious software.
+- Web security.
 
 ## Good websites for cyber news
-– https://www.cnet.com/
-– https://www.wired.com/category/security
-– https://www.yahoo.com/tech
-– https://www.engadget.com/
-– https://www.cyware.com/
+- https://www.cnet.com/
+- https://www.wired.com/category/security
+- https://www.yahoo.com/tech
+- https://www.engadget.com/
+- https://www.cyware.com/
